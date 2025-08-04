@@ -1,6 +1,6 @@
 # Arnav Wadalkar 
 
-I’m an undergraduate physics student focused on mastering **theoretical and mathematical physics** through a rigorous, structured, and derivation-based approach. My goal is to build a deep, research-capable understanding of core physical theories—from mechanics to field theory and early quantum field theory—without shortcuts or premature abstraction.
+I’m an 2nd year undergraduate physics student in **NIT Rourkela** focused on mastering **theoretical and mathematical physics** through a rigorous, structured, and derivation-based approach. My goal is to build a deep, research-capable understanding of core physical theories—from mechanics to field theory and early quantum field theory—without shortcuts or premature abstraction.
 
 ---
 
