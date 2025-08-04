@@ -5,7 +5,7 @@ I’m an undergraduate physics student focused on mastering **theoretical and ma
 
 ---
 
-## 🔬 Academic Focus Areas
+##� Academic Focus Areas
 
 | Domain | Topics |
 |--------|--------|
