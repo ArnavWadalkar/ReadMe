@@ -1,16 +1,72 @@
-## Hi there 👋
+# Arnav Wadalkar 
 
-<!--
-**ArnavWadalkar/ArnavWadalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Overview  
+I’m an undergraduate physics student focused on mastering **theoretical and mathematical physics** through a rigorous, structured, and derivation-based approach. My goal is to build a deep, research-capable understanding of core physical theories—from mechanics to field theory and early quantum field theory—without shortcuts or premature abstraction.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Academic Focus Areas
+
+| Domain | Topics |
+|--------|--------|
+| **Theoretical Physics** | Quantum Mechanics, Statistical Mechanics, Special Relativity, Classical Field Theory, Particle Physics |
+| **Mathematical Physics** | Real Analysis, Group Theory, Differential Equations, Linear Algebra |
+| **Research Engagement** | Lane–Emden Equation, Chandrasekhar Limit, Cosmological Parameters via Supernovae |
+
+---
+
+## Philosophy  
+
+> "_Understand slowly, but understand completely._"
+
+- Pen-and-paper derivation is my core method.  
+- I prioritize physical meaning over symbolic manipulation.  
+- I treat mathematical structure as essential, not optional.
+
+---
+
+## Independent Coursework
+
+| Subject | Resources |
+|--------|-----------|
+| Classical Mechanics | Theoretical Minimum, David Tong (Cambridge) |
+| Quantum Mechanics | Theoretical Minimum, Yale OCW (Shankar), David Tong |
+| Statistical Mechanics | David Tong |
+| Particle Physics | Griffiths, TM Particle Physics I |
+| Special Relativity | Society-led sessions with full derivations |
+| Computational Physics | OSU Course by Landau – basics of simulation/numerical |
+
+---
+
+## Research & Writing
+
+| Project | Summary |
+|--------|---------|
+| Lane–Emden & Polytropes | Modeling stellar interiors, polytropic equations of state |
+| Chandrasekhar Limit | Mass limit of white dwarfs derived via Landau approach |
+| Hubble Parameter | Estimation using SH0ES data, SN Ia, and cosmological fits |
+
+---
+
+- **Languages:** LaTeX, Python (basic simulations)
+- **Tools:** Overleaf, VS Code, Jupyter  
+- **Strengths:** Derivations, theoretical reading, writing physics  
+- **Learning:** Coding fluency, simulation design  
+- **Preferences:** Analytical over numerical, derivation over memorization
+
+---
+
+## Physics Society – NIT Rourkela
+
+- **Role:** Founder
+- **Format:** Derivation-based weekend sessions  
+- **Tracks:**  
+  - *Main:* Classical Mechanics
+  - *Advanced:* Special Theory of Relativity and Classical Field thoery  
+
+---
+
+## 📍 Contact
+
+- Email: [arnavwadalkar317@gmail.com]  
+
