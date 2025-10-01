@@ -29,11 +29,11 @@ I’m an 2nd year undergraduate physics student in **NIT Rourkela** focused on m
 | Subject | Resources |
 |--------|-----------|
 | Classical Mechanics | Theoretical Minimum, David Tong (Cambridge) |
-| Quantum Mechanics | Theoretical Minimum, Yale OCW (Shankar), David Tong |
-| Statistical Mechanics | David Tong |
-| Particle Physics | Griffiths, TM Particle Physics I |
-| Special Relativity | Society-led sessions with full derivations |
-| Computational Physics | OSU Course by Landau – basics of simulation/numerical |
+| Quantum Physics | Florian Scheck |
+| Statistical Physics | David Tong |
+| Particle Physics | Griffiths |
+| Special theory of Relativity | Society-led sessions with full derivations |
+| Computational Physics |
 
 ---
 
@@ -57,8 +57,8 @@ I’m an 2nd year undergraduate physics student in **NIT Rourkela** focused on m
 
 ## Physics Society – NIT Rourkela
 
-- **Role:** Founder
-- **Format:** Derivation-based weekend sessions  
+- **Role:** Founder and President
+- **Format:** Weekly Discussions and Mini Projects  
 - **Tracks:**  
   - *Main:* Classical Mechanics
   - *Advanced:* Special Theory of Relativity and Classical Field thoery  
