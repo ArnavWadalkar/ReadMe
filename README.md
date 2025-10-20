@@ -1,6 +1,6 @@
 # Arnav Wadalkar 
 
-I’m an 2nd year undergraduate physics student in **NIT Rourkela** focused on mastering **theoretical and mathematical physics** through a rigorous, structured, and derivation-based approach. My goal is to build a deep, research-capable understanding of core physical theories—from mechanics to field theory and early quantum field theory—without shortcuts or premature abstraction.
+I’m a 2nd year undergraduate physics student in **NIT Rourkela** focused on mastering **theoretical and mathematical physics** through a rigorous, structured, and derivation-based approach. My goal is to build a deep, research-capable understanding of core physical theories—from mechanics to field theory and early quantum field theory—without shortcuts or premature abstraction.
 
 ---
 
@@ -9,8 +9,8 @@ I’m an 2nd year undergraduate physics student in **NIT Rourkela** focused on m
 | Domain | Topics |
 |--------|--------|
 | **Theoretical Physics** | Quantum Mechanics, Statistical Mechanics, Special Relativity, Classical Field Theory, Particle Physics |
-| **Mathematical Physics** | Real Analysis, Group Theory, Differential Equations, Linear Algebra |
-| **Research Engagement** | Lane–Emden Equation, Chandrasekhar Limit, Cosmological Parameters via Supernovae |
+| **Mathematical Physics** | Functional Analysis, Group Theory, Differential Equations, Linear Algebra |
+| **Project Engagement** | Lane–Emden Equation, Chandrasekhar Limit, Cosmological Parameters via Supernovae, Quantum Scattering |
 
 ---
 
@@ -19,7 +19,7 @@ I’m an 2nd year undergraduate physics student in **NIT Rourkela** focused on m
 > "_Understand slowly, but understand completely._"
 
 - Pen-and-paper derivation is my core method.  
-- I prioritize physical meaning over symbolic manipulation.  
+- I prioritise physical meaning over symbolic manipulation.  
 - I treat mathematical structure as essential, not optional.
 
 ---
@@ -41,27 +41,24 @@ I’m an 2nd year undergraduate physics student in **NIT Rourkela** focused on m
 
 | Project | Summary |
 |--------|---------|
-| Lane–Emden & Polytropes | Modeling stellar interiors, polytropic equations of state |
+| Lane–Emden & Polytropes | Modelling stellar interiors, polytropic equations of state |
 | Chandrasekhar Limit | Mass limit of white dwarfs derived via Landau approach |
 | Hubble Parameter | Estimation using SH0ES data, SN Ia, and cosmological fits |
 
 ---
 
-- **Languages:** LaTeX, Python (basic simulations)
-- **Tools:** Overleaf, VS Code, Jupyter  
-- **Strengths:** Derivations, theoretical reading, writing physics  
-- **Learning:** Coding fluency, simulation design  
-- **Preferences:** Analytical over numerical, derivation over memorization
+- **Languages:** LaTeX, Python
+- **Tools:** Overleaf, VS Code, Jupyter Notebook, Mayavi
 
 ---
 
-## Physics Society – NIT Rourkela
+## Physics Undergraduate Society – NIT Rourkela
 
 - **Role:** Founder and President
-- **Format:** Weekly Discussions and Mini Projects  
+- **Format:** Weekly Discussions on coursework and Mini Projects 
 - **Tracks:**  
-  - *Main:* Classical Mechanics
-  - *Advanced:* Special Theory of Relativity and Classical Field thoery  
+  - *Saturday:* Classical Mechanics
+  - *Sunday:* Basic Mathematical Physics 
 
 ---
 
